@@ -1,3 +1,4 @@
+// TypeScript
 1. Introduction and Installation
 2. Editor Setup and Compilation
 3. Type Basics
@@ -8,3 +9,8 @@
 8. Function Signatures
 9. Classes
 10. Access Modifiers
+11. Module System
+12. Interfaces
+13. Generics
+14. Enum Types
+15. Tuples
